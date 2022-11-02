@@ -17,5 +17,13 @@
   "author": "Madagoni Anusha",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "love to explore the world.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madagoni123/f2wb05madagoni.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Madagoni123/f2wb05madagoni/issues"
+  },
+  "homepage": "https://github.com/Madagoni123/f2wb05madagoni#readme"
 }
